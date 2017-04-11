@@ -1,0 +1,147 @@
+C:\Users\adgsb\Documents\Cagny\GestionCommerciaux\GestionCommerciaux\bin\Debug\GestionCommerciaux.exe.config
+C:\Users\adgsb\Documents\Cagny\GestionCommerciaux\GestionCommerciaux\bin\Debug\GestionCommerciaux.exe
+C:\Users\adgsb\Documents\Cagny\GestionCommerciaux\GestionCommerciaux\bin\Debug\GestionCommerciaux.pdb
+C:\Users\adgsb\Documents\Cagny\GestionCommerciaux\GestionCommerciaux\obj\Debug\GestionCommerciaux.Form1.resources
+C:\Users\adgsb\Documents\Cagny\GestionCommerciaux\GestionCommerciaux\obj\Debug\GestionCommerciaux.frmAjoutCommercial.resources
+C:\Users\adgsb\Documents\Cagny\GestionCommerciaux\GestionCommerciaux\obj\Debug\GestionCommerciaux.frmAjoutNoteFrais.resources
+C:\Users\adgsb\Documents\Cagny\GestionCommerciaux\GestionCommerciaux\obj\Debug\GestionCommerciaux.Properties.Resources.resources
+C:\Users\adgsb\Documents\Cagny\GestionCommerciaux\GestionCommerciaux\obj\Debug\GestionCommerciaux.csproj.GenerateResource.Cache
+C:\Users\adgsb\Documents\Cagny\GestionCommerciaux\GestionCommerciaux\obj\Debug\GestionCommerciaux.exe
+C:\Users\adgsb\Documents\Cagny\GestionCommerciaux\GestionCommerciaux\obj\Debug\GestionCommerciaux.pdb
+F:\GestionCommerciaux2\GestionCommerciaux\bin\Debug\GestionCommerciaux.exe.config
+F:\GestionCommerciaux2\GestionCommerciaux\obj\Debug\GestionCommerciaux.exe
+F:\GestionCommerciaux2\GestionCommerciaux\obj\Debug\GestionCommerciaux.pdb
+F:\GestionCommerciaux2\GestionCommerciaux\bin\Debug\GestionCommerciaux.exe
+F:\GestionCommerciaux2\GestionCommerciaux\bin\Debug\GestionCommerciaux.pdb
+F:\GestionCommerciaux2\GestionCommerciaux\obj\Debug\GestionCommerciaux.csprojResolveAssemblyReference.cache
+F:\GestionCommerciaux2\GestionCommerciaux\obj\Debug\GestionCommerciaux.Form1.resources
+F:\GestionCommerciaux2\GestionCommerciaux\obj\Debug\GestionCommerciaux.frmAjoutCommercial.resources
+F:\GestionCommerciaux2\GestionCommerciaux\obj\Debug\GestionCommerciaux.frmAjoutNoteFrais.resources
+F:\GestionCommerciaux2\GestionCommerciaux\obj\Debug\GestionCommerciaux.Properties.Resources.resources
+F:\GestionCommerciaux2\GestionCommerciaux\obj\Debug\GestionCommerciaux.csproj.GenerateResource.Cache
+C:\Users\adgsb\Desktop\GestionCommerciaux2\GestionCommerciaux\bin\Debug\GestionCommerciaux.exe.config
+C:\Users\adgsb\Desktop\GestionCommerciaux2\GestionCommerciaux\obj\Debug\GestionCommerciaux.exe
+C:\Users\adgsb\Desktop\GestionCommerciaux2\GestionCommerciaux\obj\Debug\GestionCommerciaux.pdb
+C:\Users\adgsb\Desktop\GestionCommerciaux2\GestionCommerciaux\bin\Debug\GestionCommerciaux.exe
+C:\Users\adgsb\Desktop\GestionCommerciaux2\GestionCommerciaux\bin\Debug\GestionCommerciaux.pdb
+C:\Users\adgsb\Desktop\GestionCommerciaux2\GestionCommerciaux\obj\Debug\GestionCommerciaux.csprojResolveAssemblyReference.cache
+C:\Users\adgsb\Desktop\GestionCommerciaux2\GestionCommerciaux\obj\Debug\GestionCommerciaux.Form1.resources
+C:\Users\adgsb\Desktop\GestionCommerciaux2\GestionCommerciaux\obj\Debug\GestionCommerciaux.frmAjoutCommercial.resources
+C:\Users\adgsb\Desktop\GestionCommerciaux2\GestionCommerciaux\obj\Debug\GestionCommerciaux.frmAjoutNoteFrais.resources
+C:\Users\adgsb\Desktop\GestionCommerciaux2\GestionCommerciaux\obj\Debug\GestionCommerciaux.Properties.Resources.resources
+C:\Users\adgsb\Desktop\GestionCommerciaux2\GestionCommerciaux\obj\Debug\GestionCommerciaux.csproj.GenerateResource.Cache
+C:\Users\adgsb\Desktop\GestionCommerciaux2\GestionCommerciaux\obj\Debug\GestionCommerciaux.frmVisuaNotesFrais.resources
+C:\Users\adgsb\Desktop\GestionCommerciaux3 a finir\GestionCommerciaux\bin\Debug\GestionCommerciaux.exe.config
+C:\Users\adgsb\Desktop\GestionCommerciaux3 a finir\GestionCommerciaux\obj\Debug\GestionCommerciaux.exe
+C:\Users\adgsb\Desktop\GestionCommerciaux3 a finir\GestionCommerciaux\obj\Debug\GestionCommerciaux.pdb
+C:\Users\adgsb\Desktop\GestionCommerciaux3 a finir\GestionCommerciaux\obj\Debug\GestionCommerciaux.csprojResolveAssemblyReference.cache
+C:\Users\adgsb\Desktop\GestionCommerciaux3 a finir\GestionCommerciaux\obj\Debug\GestionCommerciaux.Form1.resources
+C:\Users\adgsb\Desktop\GestionCommerciaux3 a finir\GestionCommerciaux\obj\Debug\GestionCommerciaux.frmAjoutCommercial.resources
+C:\Users\adgsb\Desktop\GestionCommerciaux3 a finir\GestionCommerciaux\obj\Debug\GestionCommerciaux.frmAjoutNoteFrais.resources
+C:\Users\adgsb\Desktop\GestionCommerciaux3 a finir\GestionCommerciaux\obj\Debug\GestionCommerciaux.frmVisuaNotesFrais.resources
+C:\Users\adgsb\Desktop\GestionCommerciaux3 a finir\GestionCommerciaux\obj\Debug\GestionCommerciaux.Properties.Resources.resources
+C:\Users\adgsb\Desktop\GestionCommerciaux3 a finir\GestionCommerciaux\obj\Debug\GestionCommerciaux.csproj.GenerateResource.Cache
+C:\Users\adgsb\Desktop\GestionCommerciaux3 a finir\GestionCommerciaux\bin\Debug\GestionCommerciaux.exe
+C:\Users\adgsb\Desktop\GestionCommerciaux3 a finir\GestionCommerciaux\bin\Debug\GestionCommerciaux.pdb
+C:\Users\adgsb\Desktop\GestionCommerciaux4 a finir\GestionCommerciaux\bin\Debug\GestionCommerciaux.exe.config
+C:\Users\adgsb\Desktop\GestionCommerciaux4 a finir\GestionCommerciaux\obj\Debug\GestionCommerciaux.exe
+C:\Users\adgsb\Desktop\GestionCommerciaux4 a finir\GestionCommerciaux\obj\Debug\GestionCommerciaux.pdb
+C:\Users\adgsb\Desktop\GestionCommerciaux4 a finir\GestionCommerciaux\bin\Debug\GestionCommerciaux.exe
+C:\Users\adgsb\Desktop\GestionCommerciaux4 a finir\GestionCommerciaux\bin\Debug\GestionCommerciaux.pdb
+C:\Users\adgsb\Desktop\GestionCommerciaux4 a finir\GestionCommerciaux\obj\Debug\GestionCommerciaux.csprojResolveAssemblyReference.cache
+C:\Users\adgsb\Desktop\GestionCommerciaux4 a finir\GestionCommerciaux\obj\Debug\GestionCommerciaux.Form1.resources
+C:\Users\adgsb\Desktop\GestionCommerciaux4 a finir\GestionCommerciaux\obj\Debug\GestionCommerciaux.frmAjoutCommercial.resources
+C:\Users\adgsb\Desktop\GestionCommerciaux4 a finir\GestionCommerciaux\obj\Debug\GestionCommerciaux.frmAjoutNoteFrais.resources
+C:\Users\adgsb\Desktop\GestionCommerciaux4 a finir\GestionCommerciaux\obj\Debug\GestionCommerciaux.frmVisuaNotesFrais.resources
+C:\Users\adgsb\Desktop\GestionCommerciaux4 a finir\GestionCommerciaux\obj\Debug\GestionCommerciaux.Properties.Resources.resources
+C:\Users\adgsb\Desktop\GestionCommerciaux4 a finir\GestionCommerciaux\obj\Debug\GestionCommerciaux.csproj.GenerateResource.Cache
+E:\GestionCommerciaux4 a finir\GestionCommerciaux\bin\Debug\GestionCommerciaux.exe.config
+E:\GestionCommerciaux4 a finir\GestionCommerciaux\obj\Debug\GestionCommerciaux.exe
+E:\GestionCommerciaux4 a finir\GestionCommerciaux\obj\Debug\GestionCommerciaux.pdb
+C:\Users\Jean-Elie\Desktop\GestionCommerciaux à déboguer\GestionCommerciaux\bin\Debug\GestionCommerciaux.exe.config
+C:\Users\Jean-Elie\Desktop\GestionCommerciaux à déboguer\GestionCommerciaux\obj\Debug\GestionCommerciaux.exe
+C:\Users\Jean-Elie\Desktop\GestionCommerciaux à déboguer\GestionCommerciaux\obj\Debug\GestionCommerciaux.pdb
+C:\Users\Jean-Elie\Desktop\GestionCommerciaux à déboguer\GestionCommerciaux\bin\Debug\GestionCommerciaux.exe
+C:\Users\Jean-Elie\Desktop\GestionCommerciaux à déboguer\GestionCommerciaux\bin\Debug\GestionCommerciaux.pdb
+C:\Users\Jean-Elie\Desktop\GestionCommerciaux à déboguer\GestionCommerciaux\obj\Debug\GestionCommerciaux.csprojResolveAssemblyReference.cache
+C:\Users\Jean-Elie\Desktop\GestionCommerciaux à déboguer\GestionCommerciaux\obj\Debug\GestionCommerciaux.Form1.resources
+C:\Users\Jean-Elie\Desktop\GestionCommerciaux à déboguer\GestionCommerciaux\obj\Debug\GestionCommerciaux.frmAjoutCommercial.resources
+C:\Users\Jean-Elie\Desktop\GestionCommerciaux à déboguer\GestionCommerciaux\obj\Debug\GestionCommerciaux.frmAjoutNoteFrais.resources
+C:\Users\Jean-Elie\Desktop\GestionCommerciaux à déboguer\GestionCommerciaux\obj\Debug\GestionCommerciaux.frmVisuaNotesFrais.resources
+C:\Users\Jean-Elie\Desktop\GestionCommerciaux à déboguer\GestionCommerciaux\obj\Debug\GestionCommerciaux.Properties.Resources.resources
+C:\Users\Jean-Elie\Desktop\GestionCommerciaux à déboguer\GestionCommerciaux\obj\Debug\GestionCommerciaux.csproj.GenerateResource.Cache
+G:\GestionCommerciaux à déboguer\GestionCommerciaux\bin\Debug\GestionCommerciaux.exe.config
+G:\GestionCommerciaux à déboguer\GestionCommerciaux\obj\Debug\GestionCommerciaux.exe
+G:\GestionCommerciaux à déboguer\GestionCommerciaux\obj\Debug\GestionCommerciaux.pdb
+G:\GestionCommerciaux à déboguer\GestionCommerciaux\bin\Debug\GestionCommerciaux.exe
+G:\GestionCommerciaux à déboguer\GestionCommerciaux\bin\Debug\GestionCommerciaux.pdb
+G:\GestionCommerciaux à déboguer\GestionCommerciaux\obj\Debug\GestionCommerciaux.csprojResolveAssemblyReference.cache
+G:\GestionCommerciaux à déboguer\GestionCommerciaux\obj\Debug\GestionCommerciaux.Form1.resources
+G:\GestionCommerciaux à déboguer\GestionCommerciaux\obj\Debug\GestionCommerciaux.frmAjoutCommercial.resources
+G:\GestionCommerciaux à déboguer\GestionCommerciaux\obj\Debug\GestionCommerciaux.frmAjoutNoteFrais.resources
+G:\GestionCommerciaux à déboguer\GestionCommerciaux\obj\Debug\GestionCommerciaux.frmVisuaNotesFrais.resources
+G:\GestionCommerciaux à déboguer\GestionCommerciaux\obj\Debug\GestionCommerciaux.Properties.Resources.resources
+G:\GestionCommerciaux à déboguer\GestionCommerciaux\obj\Debug\GestionCommerciaux.csproj.GenerateResource.Cache
+C:\Users\adgsb\Desktop\GestionCommerciaux à déboguer\GestionCommerciaux\bin\Debug\GestionCommerciaux.exe.config
+C:\Users\adgsb\Desktop\GestionCommerciaux à déboguer\GestionCommerciaux\obj\Debug\GestionCommerciaux.exe
+C:\Users\adgsb\Desktop\GestionCommerciaux à déboguer\GestionCommerciaux\obj\Debug\GestionCommerciaux.pdb
+C:\Users\adgsb\Desktop\GestionCommerciaux à déboguer\GestionCommerciaux\bin\Debug\GestionCommerciaux.exe
+C:\Users\adgsb\Desktop\GestionCommerciaux à déboguer\GestionCommerciaux\bin\Debug\GestionCommerciaux.pdb
+C:\Users\adgsb\Desktop\GestionCommerciaux à déboguer\GestionCommerciaux\obj\Debug\GestionCommerciaux.csprojResolveAssemblyReference.cache
+C:\Users\adgsb\Desktop\GestionCommerciaux à déboguer\GestionCommerciaux\obj\Debug\GestionCommerciaux.Form1.resources
+C:\Users\adgsb\Desktop\GestionCommerciaux à déboguer\GestionCommerciaux\obj\Debug\GestionCommerciaux.frmAjoutCommercial.resources
+C:\Users\adgsb\Desktop\GestionCommerciaux à déboguer\GestionCommerciaux\obj\Debug\GestionCommerciaux.frmAjoutNoteFrais.resources
+C:\Users\adgsb\Desktop\GestionCommerciaux à déboguer\GestionCommerciaux\obj\Debug\GestionCommerciaux.frmVisuaNotesFrais.resources
+C:\Users\adgsb\Desktop\GestionCommerciaux à déboguer\GestionCommerciaux\obj\Debug\GestionCommerciaux.Properties.Resources.resources
+C:\Users\adgsb\Desktop\GestionCommerciaux à déboguer\GestionCommerciaux\obj\Debug\GestionCommerciaux.csproj.GenerateResource.Cache
+E:\GestionCommerciaux Lecuy\GestionCommerciaux\bin\Debug\GestionCommerciaux.exe.config
+E:\GestionCommerciaux Lecuy\GestionCommerciaux\obj\Debug\GestionCommerciaux.exe
+E:\GestionCommerciaux Lecuy\GestionCommerciaux\obj\Debug\GestionCommerciaux.pdb
+E:\GestionCommerciaux Lecuy\GestionCommerciaux\bin\Debug\GestionCommerciaux.exe
+E:\GestionCommerciaux Lecuy\GestionCommerciaux\bin\Debug\GestionCommerciaux.pdb
+E:\GestionCommerciaux Lecuy\GestionCommerciaux\obj\Debug\GestionCommerciaux.csprojResolveAssemblyReference.cache
+E:\GestionCommerciaux Lecuy\GestionCommerciaux\obj\Debug\GestionCommerciaux.Form1.resources
+E:\GestionCommerciaux Lecuy\GestionCommerciaux\obj\Debug\GestionCommerciaux.frmAjoutCommercial.resources
+E:\GestionCommerciaux Lecuy\GestionCommerciaux\obj\Debug\GestionCommerciaux.frmAjoutNoteFrais.resources
+E:\GestionCommerciaux Lecuy\GestionCommerciaux\obj\Debug\GestionCommerciaux.frmVisuaNotesFrais.resources
+E:\GestionCommerciaux Lecuy\GestionCommerciaux\obj\Debug\GestionCommerciaux.Properties.Resources.resources
+E:\GestionCommerciaux Lecuy\GestionCommerciaux\obj\Debug\GestionCommerciaux.csproj.GenerateResource.Cache
+C:\Users\adgsb\Desktop\GestionCommerciaux Lecuy\GestionCommerciaux\bin\Debug\GestionCommerciaux.exe.config
+C:\Users\adgsb\Desktop\GestionCommerciaux Lecuy\GestionCommerciaux\obj\Debug\GestionCommerciaux.exe
+C:\Users\adgsb\Desktop\GestionCommerciaux Lecuy\GestionCommerciaux\obj\Debug\GestionCommerciaux.pdb
+C:\Users\adgsb\Desktop\GestionCommerciaux Lecuy\GestionCommerciaux\bin\Debug\GestionCommerciaux.exe
+C:\Users\adgsb\Desktop\GestionCommerciaux Lecuy\GestionCommerciaux\bin\Debug\GestionCommerciaux.pdb
+C:\Users\adgsb\Desktop\GestionCommerciaux Lecuy\GestionCommerciaux\obj\Debug\GestionCommerciaux.csprojResolveAssemblyReference.cache
+C:\Users\adgsb\Desktop\GestionCommerciaux Lecuy\GestionCommerciaux\obj\Debug\GestionCommerciaux.Form1.resources
+C:\Users\adgsb\Desktop\GestionCommerciaux Lecuy\GestionCommerciaux\obj\Debug\GestionCommerciaux.frmAjoutCommercial.resources
+C:\Users\adgsb\Desktop\GestionCommerciaux Lecuy\GestionCommerciaux\obj\Debug\GestionCommerciaux.frmAjoutNoteFrais.resources
+C:\Users\adgsb\Desktop\GestionCommerciaux Lecuy\GestionCommerciaux\obj\Debug\GestionCommerciaux.frmVisuaNotesFrais.resources
+C:\Users\adgsb\Desktop\GestionCommerciaux Lecuy\GestionCommerciaux\obj\Debug\GestionCommerciaux.Properties.Resources.resources
+C:\Users\adgsb\Desktop\GestionCommerciaux Lecuy\GestionCommerciaux\obj\Debug\GestionCommerciaux.csproj.GenerateResource.Cache
+F:\GestionCommerciaux Lecuy\GestionCommerciaux\bin\Debug\GestionCommerciaux.exe.config
+F:\GestionCommerciaux Lecuy\GestionCommerciaux\obj\Debug\GestionCommerciaux.exe
+F:\GestionCommerciaux Lecuy\GestionCommerciaux\obj\Debug\GestionCommerciaux.pdb
+F:\GestionCommerciaux Lecuy\GestionCommerciaux\bin\Debug\GestionCommerciaux.exe
+F:\GestionCommerciaux Lecuy\GestionCommerciaux\bin\Debug\GestionCommerciaux.pdb
+F:\GestionCommerciaux Lecuy\GestionCommerciaux\obj\Debug\GestionCommerciaux.csprojResolveAssemblyReference.cache
+F:\GestionCommerciaux Lecuy\GestionCommerciaux\obj\Debug\GestionCommerciaux.Form1.resources
+F:\GestionCommerciaux Lecuy\GestionCommerciaux\obj\Debug\GestionCommerciaux.frmAjoutCommercial.resources
+F:\GestionCommerciaux Lecuy\GestionCommerciaux\obj\Debug\GestionCommerciaux.frmAjoutNoteFrais.resources
+F:\GestionCommerciaux Lecuy\GestionCommerciaux\obj\Debug\GestionCommerciaux.frmVisuaNotesFrais.resources
+F:\GestionCommerciaux Lecuy\GestionCommerciaux\obj\Debug\GestionCommerciaux.Properties.Resources.resources
+F:\GestionCommerciaux Lecuy\GestionCommerciaux\obj\Debug\GestionCommerciaux.csproj.GenerateResource.Cache
+G:\GestionCommerciaux Lecuy\GestionCommerciaux\bin\Debug\GestionCommerciaux.exe.config
+G:\GestionCommerciaux Lecuy\GestionCommerciaux\obj\Debug\GestionCommerciaux.exe
+G:\GestionCommerciaux Lecuy\GestionCommerciaux\obj\Debug\GestionCommerciaux.pdb
+H:\GestionCommerciaux Lecuy\GestionCommerciaux\bin\Debug\GestionCommerciaux.exe.config
+H:\GestionCommerciaux Lecuy\GestionCommerciaux\obj\Debug\GestionCommerciaux.exe
+H:\GestionCommerciaux Lecuy\GestionCommerciaux\obj\Debug\GestionCommerciaux.pdb
+H:\GestionCommerciaux Lecuy\GestionCommerciaux\bin\Debug\GestionCommerciaux.exe
+H:\GestionCommerciaux Lecuy\GestionCommerciaux\bin\Debug\GestionCommerciaux.pdb
+H:\GestionCommerciaux Lecuy\GestionCommerciaux\obj\Debug\GestionCommerciaux.csprojResolveAssemblyReference.cache
+H:\GestionCommerciaux Lecuy\GestionCommerciaux\obj\Debug\GestionCommerciaux.Form1.resources
+H:\GestionCommerciaux Lecuy\GestionCommerciaux\obj\Debug\GestionCommerciaux.frmAjoutCommercial.resources
+H:\GestionCommerciaux Lecuy\GestionCommerciaux\obj\Debug\GestionCommerciaux.frmAjoutNoteFrais.resources
+H:\GestionCommerciaux Lecuy\GestionCommerciaux\obj\Debug\GestionCommerciaux.frmVisuaNotesFrais.resources
+H:\GestionCommerciaux Lecuy\GestionCommerciaux\obj\Debug\GestionCommerciaux.Properties.Resources.resources
+H:\GestionCommerciaux Lecuy\GestionCommerciaux\obj\Debug\GestionCommerciaux.csproj.GenerateResource.Cache
